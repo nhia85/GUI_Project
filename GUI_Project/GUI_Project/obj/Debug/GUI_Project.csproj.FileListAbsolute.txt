@@ -1,0 +1,11 @@
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\bin\Debug\GUI_Project.exe.config
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\bin\Debug\GUI_Project.exe
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\bin\Debug\GUI_Project.pdb
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\obj\Debug\GUI_Project.csprojResolveAssemblyReference.cache
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\obj\Debug\GUI_Project.Desktop.resources
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\obj\Debug\GUI_Project.Form1.resources
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\obj\Debug\GUI_Project.POS.resources
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\obj\Debug\GUI_Project.Properties.Resources.resources
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\obj\Debug\GUI_Project.csproj.GenerateResource.Cache
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\obj\Debug\GUI_Project.exe
+C:\Users\Nhia\Documents\GitHub\GUI_Project\GUI_Project\GUI_Project\obj\Debug\GUI_Project.pdb
